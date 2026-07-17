@@ -33,9 +33,15 @@ Que ya exista algo mejor no es eliminatorio (se aprende reconstruyendo), pero se
 
 ## Índice de ideas
 
-| Idea | Estado | Pivote healthtech | Última actualización |
-| :--- | :---: | :---: | :--- |
-| _(vacío)_ | | | |
+| Idea | Estado | Veredicto propuesto | Pivote healthtech | Última actualización |
+| :--- | :---: | :---: | :---: | :--- |
+| [Surf Skate Spot](surf-skate-spot/ficha.md) | ⚖️ Fase 1 completada — pendiente decisión de Julius | PIVOTE (cierre de portfolio con núcleo de aprendizaje) | No | 2026-07-17 |
+| [Anthropofilia](anthropofilia/ficha.md) | ⚖️ Fase 1 completada — pendiente decisión de Julius | GO (cierre auditado, tope 12 sesiones) | No | 2026-07-17 |
+| [ScoringNews / Prism](scoringnews/ficha.md) | ⚖️ Fase 1 completada — pendiente decisión de Julius | PIVOTE (laboratorio de esqueleto .NET, dos etapas) | Técnico | 2026-07-17 |
+| [RealAudio](realaudio/ficha.md) | ⚖️ Fase 1 completada — pendiente decisión de Julius | PIVOTE (AudioLab personal, sin claims clínicos) | **Sí** | 2026-07-17 |
+| [Mantenimiento vehículo v2](vehiculo-v2/ficha.md) | ⚖️ Fase 1 completada — pendiente decisión de Julius | PIVOTE (módulo OCR de tickets sobre v1) | Tangencial | 2026-07-17 |
+| [Juego 2D por oleadas](juego-2d/ficha.md) | ⚖️ Fase 1 completada — pendiente decisión de Julius | NO-GO (archivo como hobby, dossier congelado) | No | 2026-07-17 |
+| [App de logopedia](logopedia/ficha.md) | ⚖️ Fase 1 completada — pendiente decisión de Julius | PIVOTE (norte estratégico por peldaños; peldaño 0) | **Sí, núcleo** | 2026-07-17 |
 
 ## Estructura por idea
 
@@ -43,7 +49,9 @@ Cada idea vive en su propia carpeta:
 
 ​```
 {nombre-idea}/
-├── ficha.md               ← Fase 0
+├── ficha.md               ← Fase 0 (actualizada tras cada fase)
+├── tribunal.md            ← Fase 1 (4 dictámenes independientes)
+├── orquestador.md         ← Fase 2a (síntesis y veredicto propuesto)
 ├── especificacion.md      ← Fase 3
 ├── guia-construccion.md   ← Fase 4
 └── doc-usuario.md         ← Fase 4
