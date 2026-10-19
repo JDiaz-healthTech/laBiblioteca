@@ -8,7 +8,7 @@
 | :--- | :--- | :--- |
 | Pregunta que responde | ¿Merece construirse? | ¿Qué se construye y cómo? |
 | Fases | 0 Intake · 1 Crítica · 2 Decisión | F0 Descubrimiento · F1 Especificación · F2 Implementación · F3 Revisión · F4 Publicación |
-| Fases 3-5 de aquí | Se mantienen para ideas que no sean apps Android | Las sustituye la factoría para apps Android |
+| Fases 3-5 de aquí | Se mantienen para ideas que no sean apps Android | Las sustituye la factoría para apps Android (pregunta P2) |
 
 ## Cuándo pasa una idea a la factoría
 1. Decisión 2b explícita de Julius: GO o PIVOTE aceptado.
@@ -32,4 +32,4 @@
 
 ## Entrada directa
 Las ideas pequeñas o experimentales (por ejemplo, la app de clima y mareas de casa) pueden
-entrar en la factoría sin pasar por aquí, si así se decide (pregunta P2 del bloque C).
+entrar en la factoría sin pasar por aquí, si así se decide (pregunta P4 del bloque C).
